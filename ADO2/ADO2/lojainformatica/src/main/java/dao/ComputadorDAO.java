@@ -15,7 +15,7 @@ public class ComputadorDAO {
     
     static String url = "jdbc:mysql://localhost:3306/lojainformatica";
     static String login = "root";
-    static String senha = "He211204@";
+    static String senha = "123456";
     
     public static boolean salvar(Computador objComputador){
         String erro = "Falha de conexão!";
